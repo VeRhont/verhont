@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d715dcaf-de78-4cf5-ab8a-82a5b02462e2)
+![image](https://github.com/user-attachments/assets/b37e3bef-73a4-46f1-b4dc-d358da34e46c)
+
 
 
 <h1 align="center">Hi 👋, I'm Semyon Ivanov</h1>
