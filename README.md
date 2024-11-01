@@ -30,5 +30,6 @@
 ---
 
 <h3 align="left">GitHub statistics:</h3>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=verhont&" alt="verhont" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=verhont&" alt="verhont" /></p>
+<br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=verhont&show_icons=true&locale=en" alt="verhont" /></p>
