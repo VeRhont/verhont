@@ -1,7 +1,8 @@
-<!-- ![image](https://github.com/user-attachments/assets/b37e3bef-73a4-46f1-b4dc-d358da34e46c) -->
+<!-- ![image](https://github.com/user-attachments/assets/b37e3bef-73a4-46f1-b4dc-d358da34e46c)  -->
+![0](https://github.com/user-attachments/assets/74467873-bef7-4bab-89bd-6424a621ad48)
 
-<h2>Semyon Ivanov</h2>
-<code>Mobile Developer</code>
+
+<h3>Hello 🤚</h3>
 
 <!--
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif >
@@ -10,7 +11,7 @@
 
 ---
 <h3>📜 About Me</h3>
-I’m currently learning Android, Kotlin
+I am currently learning Android, Kotlin and doing my pet projects
 
 <h3>📧 Contact me</h3>
 <ul>
